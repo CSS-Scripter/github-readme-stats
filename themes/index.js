@@ -342,6 +342,13 @@ const themes = {
     text_color: "bcbcbc",
     bg_color: "262626",
   },
+  lnmn: {
+    bg_color: "-45,364156,364156,7D4E57,7D4E57",
+    text_color: "ffffff",
+    hide_border: "true",
+    hide_title: "true",
+    
+  },
 };
 
 module.exports = themes;
